@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩薩睒子經
+#+DATE: 2015-08-30 19:34:08.849355
+#+PROPERTY: JUAN 0
