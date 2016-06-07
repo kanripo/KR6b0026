@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:08.669952
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:53
 #+TITLE: 菩薩睒子經
 #+PROPERTY: CBETA_ID T03n0174
 #+PROPERTY: ID KR6b0026
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 174
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0026_T_001-0436b> 
 #+PROPERTY: JUAN 1
 ¶
-No.174¶
-
- 佛說菩薩睒子經¶
+No. 174¶
+佛說菩薩睒子經¶
 ¶
 安公錄中闕譯今附西晉錄¶
 
@@ -56,8 +55,7 @@ No.174¶
 母言：『本發大意欲入深山，求志空寂無上¶
 正真。豈以子故而絕本願？人在世間無常百¶
 變，命非金石對至無期。願如本意，宜及上¶
-時，入山清淨。我自尋隨與父母俱，供養隨¶
-意不失時節。』父母報睒言：『子之孝順天自¶
+時，入山清淨。我自尋隨與父母俱，供養隨意不失時節。』父母報睒言：『子之孝順天自¶
 知之，不違本誓便共入山。』¶
 
 「睒即以家中所有之物，皆施國中諸貧窮者，¶
