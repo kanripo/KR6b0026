@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:08.669952
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:53
 #+TITLE: 菩薩睒子經
 #+PROPERTY: CBETA_ID T03n0174
 #+PROPERTY: ID KR6b0026
